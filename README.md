@@ -1,75 +1,19 @@
-# Nuxt Minimal Starter
+# MouseShapes
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+<pre align="center">
+I often visit eloshapes.com, which is a gem of a website to compare various mouse shapes and find one that truly fits your grip. When I saw that it was made with Nuxt (as a Nuxt enjoyer myself that switched to React for work), I thought about (re)learning a bit more about it by creating a simplified version to understand how it was made.
+</pre>
 
-## Setup
+## Made with
 
-Make sure to install dependencies:
+- 💚 [Nuxt](https://github.com/sveltejs/kit) - SSG, file-based routing, etc.
+  
+- ⚡️ [Vite](https://github.com/vitejs/vite) - Instant HMR for lightning-fast development.
 
-```bash
-# npm
-npm install
+- 🌊 [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) - The instant on-demand atomic CSS engine.
 
-# pnpm
-pnpm install
+- 🦾 [TypeScript](https://github.com/microsoft/TypeScript) - Type safety for Javascript.
 
-# yarn
-yarn install
+- 💲 [Supabase](https://supabase.com/) - The Open Source Firebase Alternative.
 
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+- 🏎 [Cloudflare Pages](https://pages.cloudflare.com/) - Zero-config cloud functions and deploy.
