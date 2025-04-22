@@ -1,7 +1,7 @@
 # MouseShapes
 
 <pre align="center">
-I often visit eloshapes.com, which is a gem of a website to compare various mouse shapes and find one that truly fits your grip. When I saw that it was made with Nuxt (as a Nuxt enjoyer myself that switched to React for work), I thought about (re)learning a bit more about it by creating a simplified version to understand how it was made.
+I often visit eloshapes.com, which is a gem of a website to compare various mouse shapes and find one that truly fits your grip. When I saw that it was made with Nuxt (as a Nuxt enjoyer myself that had to switch to React for work), I thought about (re)learning a bit by creating a simplified version to understand how it was made.
 </pre>
 
 ## Made with
